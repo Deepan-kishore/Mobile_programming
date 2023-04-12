@@ -59,8 +59,8 @@ console.log(buttonClick);
 <tbody>
 <tr >
 <td className='table-heading-yellow' >{table}</td>
-<td className='table-heading-yellow' >{Column}</td>
-<td className='table-heading-distinct' >{Unique}</td>
+<td className='table-heading-yellow' >{Unique}</td>
+<td className='table-heading-distinct' >{Column}</td>
 <td className='table-heading-UInput' >User Input</td>
 </tr>
 {/* "interview.geography_columns","city_name" , */}

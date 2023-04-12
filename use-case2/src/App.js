@@ -4,8 +4,8 @@ import { useState } from 'react';
 
 
 function App() {
-  const [websites, addSites] = useState(["google", "cds"])
-  const [inputFeild, setinputFeild] = useState(["google", "cds"])
+  const [websites, addSites] = useState(["www.google.com"])
+  const [inputFeild, setinputFeild] = useState(["www.google.com"])
 
   const inputChange = (e) => setinputFeild(e.target.value);
 
